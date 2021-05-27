@@ -9,11 +9,12 @@
 #-------------------------------------------------------------------------------
 
 #----Imports--------------------------------------------------------------------
-from tkinter.constants import CENTER
+
 import cv2
-from PIL import Image, ImageTk
 import numpy as np
+from PIL import Image, ImageTk
 import tkinter as tk
+from tkinter.constants import CENTER
 #-------------------------------------------------------------------------------
 
 #----Constants/Globals----------------------------------------------------------
